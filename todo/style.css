@@ -1,0 +1,22 @@
+.cont {
+  max-width: 800px;
+
+  margin-left: 450px;
+  margin-top: 50px;
+}
+#add_todo {
+  margin-left: 340px;
+  margin-top: 30px;
+}
+#save_todo {
+  margin-left: 340px;
+  margin-top: 30px;
+}
+ul{
+  
+    list-style-type: none;
+}
+
+h5{
+  text-align: center;
+}
